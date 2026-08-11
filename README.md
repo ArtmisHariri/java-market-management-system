@@ -45,5 +45,4 @@ See `Main.java` for the full list of supported commands.
 - No unit tests yet; consider adding JUnit tests for `Market` and
   `Product`.
 
-## License
-MIT
+
